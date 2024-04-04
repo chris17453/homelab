@@ -13,4 +13,8 @@ My personal homelab setup
 ![Alt text](./assets/WL-airconditioner.jpg?raw=true "airconditioner")
 ![Alt text](./assets/WL-lab-celing.jpg?raw=true "lab-celing")
 ![Alt text](./assets/WL-office-lab.jpg?raw=true "office-lab")
+![Alt text](./assets/servers2.jpg?raw=true "Servers Closeup")
+![Alt text](./assets/servers3.jpg?raw=true "officeServers- Front")
+![Alt text](./assets/office.jpg?raw=true "Home Office-1")
+![Alt text](./assets/office-2.jpg?raw=true "Home Office-2")
 
